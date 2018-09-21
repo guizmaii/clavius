@@ -4,6 +4,11 @@ rvm:
   - 2.2.8
   - 2.3.5
   - 2.4.2
+  - jruby-9.1
+  - jruby-9.2
+
+jdk:
+- oraclejdk8
 
 cache: bundler
 
